@@ -1,8 +1,8 @@
 {
   "name": "@pomle/classnames",
   "version": "0.0.0-0",
-  "description": "",
-  "author": "",
+  "description": "Helper function to apply classes to React nodes",
+  "author": "Pontus Alexander <pontus.alexander@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
