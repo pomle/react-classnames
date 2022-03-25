@@ -1,12 +1,12 @@
 {
-  "name": "name",
+  "name": "@pomle/classnames",
   "version": "0.0.0-0",
   "description": "",
   "author": "",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/"
+    "url": "git+https://github.com/pomle/react-classnames"
   },
   "keywords": [],
   "source": "src/index.ts",
