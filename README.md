@@ -52,7 +52,7 @@ return items.map((item, index) => {
 
 ```tsx
 <div
-  className={classNames("image", match ? "exact" : "estimate", {
+  className={classNames("result", match ? "exact" : "estimate", {
     error: !!error,
     success: !!result,
   })}
